@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=33e4ff&fontColor=ffffff&height=300&section=header&text=I%20AM%20CASPIAN&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=33e4ff&fontColor=ffffff&height=200&section=header&text=Welcome%20Everyone&fontSize=70&animation=fadeIn&fontAlignY=25&desc=Lets%20Connect%20👋&descSize=35&descAlignY=55)
+
+![Caspian's GitHub stats](https://github-readme-stats-rose-phi-25.vercel.app/api?username=Caspian616&show_icons=true&theme=react&count_private=true)
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3f01956a-3675-455c-8271-ea494749041d"/>
+</a>
 
 **Caspian616/caspian616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

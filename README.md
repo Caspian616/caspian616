@@ -41,3 +41,6 @@ hobbies: ["Gaming", "Football", "Travelling"]
 </a>
 
 ![snake](https://raw.githubusercontent.com/Caspian616/Caspian616/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:151B23,100:1E3A8A&fontColor=ffffff&height=200&section=footer"
+     width="100%" />

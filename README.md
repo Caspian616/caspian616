@@ -33,9 +33,9 @@ hobbies: ["Gaming", "Football", "Travelling"]
 
 <a href="https://github.com/Caspian616/github-readme-stats">
   <img height="190" align="center"
-    src="https://github-readme-stats-rose-phi-25.vercel.app/api?username=Caspian616&show_icons=true&theme=react&count_private=true&card_width=500" />
+    src="https://github-readme-stats-rose-phi-25.vercel.app/api?username=Caspian616&show_icons=true&theme=react&count_private=true&card_width=400" />
 </a>
 <a href="https://github.com/Caspian616/github-readme-stats">
   <img height="200" align="center"
-    src="https://github-readme-stats-rose-phi-25.vercel.app/api/top-langs/?username=Caspian616&theme=react&layout=compact&langs_count=8&card_width=500" />
+    src="https://github-readme-stats-rose-phi-25.vercel.app/api/top-langs/?username=Caspian616&theme=react&layout=compact&langs_count=8&card_width=400" />
 </a>

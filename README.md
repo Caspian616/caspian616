@@ -1,21 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=33e4ff&fontColor=ffffff&height=200&section=header&text=Welcome%20Everyone&fontSize=70&animation=fadeIn&fontAlignY=25&desc=Lets%20Connect%20👋&descSize=35&descAlignY=55)
 
-![Caspian's GitHub stats](https://github-readme-stats-rose-phi-25.vercel.app/api?username=Caspian616&show_icons=true&theme=react&count_private=true)
+# My GitHub Contributions 📈
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3f01956a-3675-455c-8271-ea494749041d"/>
+<a href="https://github.com/Caspian616/github-readme-stats">
+  <img height="190" align="center"
+    src="https://github-readme-stats-rose-phi-25.vercel.app/api?username=Caspian616&show_icons=true&theme=react&count_private=true&card_width=600" />
 </a>
-
-**Caspian616/caspian616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Caspian616/github-readme-stats">
+  <img height="200" align="center"
+    src="https://github-readme-stats-rose-phi-25.vercel.app/api/top-langs/?username=Caspian616&theme=react&layout=compact&langs_count=8&card_width=400" />
+</a>

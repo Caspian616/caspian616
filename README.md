@@ -39,3 +39,5 @@ hobbies: ["Gaming", "Football", "Travelling"]
   <img height="200" align="center"
     src="https://github-readme-stats-rose-phi-25.vercel.app/api/top-langs/?username=Caspian616&theme=react&layout=compact&langs_count=8&card_width=300" />
 </a>
+
+![snake](https://raw.githubusercontent.com/Caspian616/Caspian616/output/github-contribution-grid-snake-dark.svg)
